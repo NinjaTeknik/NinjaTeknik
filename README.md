@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinjaTeknik
 - 👀 I’m interested in getting better at coding and gaming.
-- 🌱 I’m currently learning C#, html, css and javascript.
+- 🌱 I’m currently learning C#, HTML, CSS and JavaScript.
 - 📫 How to reach me you cant xD
 
 <!---
