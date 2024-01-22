@@ -16,7 +16,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NinjaTeknik&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 NinjaTeknik/NinjaTeknik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
