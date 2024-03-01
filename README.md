@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 ⚡ A passionate frontend developer from Denmark<br>
-🌱 I’m currently learning **NEXT.js, TypeScript**
+🌱 I’m currently learning **Graphic Design, Including Figma**
 
 
 # 💻 Tech Stack:
