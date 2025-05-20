@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-⚡ A passionate frontend developer from Denmark<br>
-🌱 I’m currently learning **Graphic Design, Including Figma**
+⚡ A passionate Designer from Denmark<br>
+🌱 I’m currently learning **Graphic Design**
 
 
 # 💻 Tech Stack:
